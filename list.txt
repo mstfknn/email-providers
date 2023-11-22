@@ -3548,7 +3548,7 @@
 401k300.ninja
 401khedgefund.com
 4034445.com
-404: not found
+404:notfound
 404box.com
 404lorn.com
 404qs.com
@@ -9073,7 +9073,6 @@ aberdeenfans.co.uk
 aberdeenshire.org
 abereceipes.xyz
 aberystwyth.com
-aberystwyth.com 
 abesanss.space
 abessdesign.xyz
 abexag.cf
@@ -14270,7 +14269,6 @@ atlantamail.com
 atlantaoffice.com
 atlantaquote.com
 atlanticbb.net
-atlanticbb.net 
 atlanticcanada-japan.com
 atlanticcanadacruise.com
 atlanticmc.shop
@@ -22031,7 +22029,6 @@ byng.de
 byngo.com
 bynyqs.com
 byom.de
-byom.de 
 bypass-captcha.com
 bypebbles.info
 bypebbles.net
@@ -32004,7 +32001,6 @@ dlyludeey.ru
 dlympics.com
 dm-project.ru
 dm.w3internet.co.uk
-dm.w3internet.co.uk example.com
 dm.w3internet.co.ukexample.com
 dm3zv0.online
 dm7xse.us
@@ -33819,7 +33815,6 @@ dynamicdietplan.com
 dynamicsmoneynews.com
 dynamiteendurance.coach
 dynamitemail.com
-dynamitemail.com 
 dynamitetype.nyc
 dynaro.online
 dynastyantique.com
@@ -49768,7 +49763,6 @@ hotmail.red
 hotmail.ro
 hotmail.roor
 hotmail.ru
-hotmail.ru 
 hotmail.rw
 hotmail.sc
 hotmail.se
@@ -56376,7 +56370,6 @@ jwptesiiv.shop
 jwpwnzobs.shop
 jwsei.club
 jwspamspy
-jwspamspy 
 jwtukew1xb1q.cf
 jwtukew1xb1q.ga
 jwtukew1xb1q.gq
@@ -63364,7 +63357,6 @@ lycos.nl
 lycos.ru
 lycosemail.com
 lycosmail.com
-lycosmail.com 
 lydia-uniform.com
 lydias-scrubs.com
 lydiascrubs.com
@@ -64625,7 +64617,6 @@ mail2heather.com
 mail2heaven.com
 mail2hebe.com
 mail2hecate.com
-mail2hecate.com 
 mail2heidi.com
 mail2helen.com
 mail2hell.com
@@ -64749,7 +64740,6 @@ mail2junk.com
 mail2justin.com
 mail2justme.com
 mail2k.ru
-mail2k.ru 
 mail2k.trade
 mail2k.win
 mail2kansas.com
@@ -64842,7 +64832,6 @@ mail2luxury.com
 mail2lyle.com
 mail2lynn.com
 mail2madagascar.com
-mail2madagascar.com 
 mail2madison.com
 mail2madrid.com
 mail2maggie.com
@@ -64999,7 +64988,6 @@ mail2no.com
 mail2noah.com
 mail2noel.com
 mail2noelle.com
-mail2noelle.com 
 mail2normal.com
 mail2norman.com
 mail2northamerica.com
@@ -65164,7 +65152,6 @@ mail2rusty.com
 mail2ruth.com
 mail2rwanda.com
 mail2ryan.com
-mail2ryan.com 
 mail2sa.com
 mail2sabrina.com
 mail2safe.com
@@ -65355,7 +65342,6 @@ mail2turkmenistan.com
 mail2tv.com
 mail2tycoon.com
 mail2tyler.com
-mail2tyler.com 
 mail2u4me.com
 mail2uae.com
 mail2uganda.com
@@ -65952,7 +65938,6 @@ mailroom.com
 mailroyal.dk
 mailrrpost.com
 mailru.com
-mailru.com 
 mailrunner.net
 mails-24.net
 mails-4-mails.bid
@@ -72009,7 +71994,6 @@ myworldfame.online
 myworldfame.site
 myworldfame.store
 myworldmail.com
-myworldmail.com 
 mywow2020.xyz
 mywrld.site
 mywrld.top
@@ -74074,7 +74058,7 @@ nicolhampel.com
 nicomeyers.site
 nicoobook.net
 nicooprost.space
-nicoric.com 
+nicoric.com
 nicos-kebabs-takeaway.com
 nicton.ru
 nid.edu
@@ -75585,7 +75569,6 @@ nzntdc4dkdp.gq
 nzntdc4dkdp.ml
 nzntdc4dkdp.tk
 nzoomail.com
-nzoomail.com 
 nztiea.site
 nzufsg.icu
 nzv0rz.us
@@ -82108,7 +82091,6 @@ posteo.si
 posteo.tn
 posteo.uk
 posteo.us
-posteo.us 
 posteronwall.com
 posterxmtw.space
 postfach.cc
@@ -83871,7 +83853,6 @@ pwnhome.org
 pwodskdf.net
 pwp.lv
 pwrby.com
-pwrby.com 
 pwstory.com
 pwt9azutcao7mi6.ga
 pwt9azutcao7mi6.ml
@@ -93826,7 +93807,7 @@ slivtika.ml
 slix.dev
 sljcsb.com
 slkjghsx77sx.ru
-slmail.me 
+slmail.me
 slmshf.cf
 slmtracker.com
 slo.net
@@ -97943,7 +97924,6 @@ syosetu.gq
 syozv.us
 syracusequote.com
 syriamail.com
-syriamail.com 
 syrlzyw.com
 syrus.website
 sysblogd.com
@@ -98198,12 +98178,12 @@ tabcupen.tk
 tabelon.com
 tabienrayong.com
 tabithaanaya.livefreemail.top
-table of free mail providers used in spam
 tablebla.icu
 tabledoug.icu
 tableexi.icu
 tablegdwnzx.email
 tablegu.icu
+tableoffreemailprovidersusedinspam
 tableri.xyz
 tablerive.xyz
 tabletcraze.com
@@ -104669,7 +104649,6 @@ tyopitchsy.tk
 typecho.asia
 typechocheck.xyz
 typemail.com
-typemail.com 
 typepoker.com
 typery.com
 typescriptis.fun
@@ -105773,7 +105752,6 @@ unnuhol.ml
 uno.ee
 uno.it
 unofree.it
-unofree.it 
 unofyfcu.com
 unogoalz.club
 unoinku.com
