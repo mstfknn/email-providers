@@ -12,9 +12,6 @@ You can clone this repository or directly download the required file to integrat
 ## Disclaimer
 This list is for informational and educational purposes only. We do not endorse the use of disposable email addresses for malicious activities.
 
-## Contact
-For any queries or suggestions, feel free to reach out to [your contact information or leave blank if not applicable].
-
 ---
 
 Enjoy and use responsibly!
