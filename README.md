@@ -1,7 +1,7 @@
 # Free Disposable Email Providers List
 
 ## Overview
-This repository contains a comprehensive list of 118,001 free and disposable email providers. It's a valuable resource for developers, researchers, and security professionals who need to filter or analyze email data.
+This repository contains a comprehensive list of 117.979 free and disposable email providers. It's a valuable resource for developers, researchers, and security professionals who need to filter or analyze email data.
 
 ## Contents
 - `list.txt`: The complete list of email providers.
