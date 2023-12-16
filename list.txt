@@ -81356,7 +81356,6 @@ plz-mail.online
 pm-200.info
 pm-386.info
 pm-773.info
-pm.me
 pm244.site
 pm7if.us
 pmail.net
@@ -83273,10 +83272,7 @@ proto1rnfg.com
 proto2mail.com
 protologism.com
 proton-team.com
-proton.me
 protongras.ga
-protonmail.ch
-protonmail.com
 protovu.xyz
 proudtra.xyz
 proulx.site
@@ -93809,7 +93805,6 @@ slivtika.ml
 slix.dev
 sljcsb.com
 slkjghsx77sx.ru
-slmail.me
 slmshf.cf
 slmtracker.com
 slo.net
